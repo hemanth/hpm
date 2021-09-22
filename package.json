@@ -50,7 +50,7 @@
     "ora": "^0.3.0",
     "pify": "^2.3.0",
     "recast": "^0.11.10",
-    "update-notifier": "^1.0.2"
+    "update-notifier": "^4.0.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
